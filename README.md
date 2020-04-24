@@ -4,4 +4,4 @@ PostgreSQL + DB API function implementations for Intro to relational database co
 https://www.udacity.com/course/intro-to-relational-databases--ud197
 
 Technology stack:
-\#SQL \#PostgreSQL \#Python \#Flask \#VM \#Ubuntu
+\#DB-API \#SQL \#PostgreSQL \#Python \#Flask \#VM \#Ubuntu
