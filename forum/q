@@ -1,0 +1,13 @@
+                                                                          content                                                                          |            time            | id
+-----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+----
+ cc                                                                                                                                                      +| 2020-04-22 07:12:54.83725  |  1
+                                                                                                                                                           |                            |
+ '); delete from posts; --                                                                                                                                 | 2020-04-22 07:15:33.913559 |  2
+ &lt;script&gt;                                                                                                                                           +| 2020-04-22 07:18:25.864514 |  3
+ setTimeout(function() {                                                                                                                                  +|                            |
+     var tt = document.getElementById('content');                                                                                                         +|                            |
+     tt.value = "&lt;h2 style='color: #FF6699; font-family: Comic Sans MS'&gt;Spam, spam, spam, spam,&lt;br&gt;Wonderful spam, glorious spam!&lt;/h2&gt;";+|                            |
+     tt.form.submit();                                                                                                                                    +|                            |
+ }, 2500);                                                                                                                                                +|                            |
+ &lt;/script&gt;                                                                                                                                           |                            |
+(3 rows)
